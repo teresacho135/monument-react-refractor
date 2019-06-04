@@ -1,0 +1,8 @@
+@media only screen and (max-width: 774px) {
+	aside {
+		display: none;
+	}
+	.grid-wrapper section {
+		width: 100%;
+	}
+} 
